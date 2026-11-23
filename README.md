@@ -1,7 +1,12 @@
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/ajidasidiq/news-image-20261123-2/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/ajidasidiq/news-image-20261123-2/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 # The World in One Day — Monday 23 November 2026
 
 A newspaper front page summing up the world's news of Monday 23 November 2026,
-for the make.fun bounty `news-image-20261123`.
+for the make.fun bounty `news-image-20261123` — see the bounty page at
+https://make.fun/bounty/news-image-20261123.
 
 ## What the image shows
 
